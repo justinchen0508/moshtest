@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hhh
 =======
 iiiuu
@@ -12,5 +11,7 @@ cccccc
 ddddd
 eeee
 gggg
->>>>>>> origin/main
+ origin/main
+xyz
 abc
+
