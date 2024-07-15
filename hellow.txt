@@ -2,7 +2,7 @@ hhhh
 mmmm
 ttttt
 bbbb
-oooo
+oooio
 kkk
 hhhh
 0000
@@ -10,10 +10,3 @@ xxx
 111
 222
 cafe
-123
-<<<<<<< HEAD
-=======
-opq
-789
-987
->>>>>>> 407f2f2 (add 987)
